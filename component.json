@@ -1,0 +1,17 @@
+{
+  "name":"leaflet",
+  "version":"1.0.0a",
+  "repo":"deedubs/leaflet",
+  "scripts": [
+    "leaflet-src.js"
+  ],
+  "styles": [
+    "leaflet.css"
+  ],
+  "images": [
+    "images/layers.png",
+    "images/marker-icon.png",
+    "images/marker-icon@2x.png",
+    "images/marker-shadow.png"
+  ]
+}
