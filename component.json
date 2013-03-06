@@ -1,7 +1,7 @@
 {
   "name":"leaflet",
   "version":"1.0.0a",
-  "repo":"deedubs/component-leaflet",
+  "repo":"deedubs/leaflet",
   "scripts": [
     "leaflet-src.js"
   ],
